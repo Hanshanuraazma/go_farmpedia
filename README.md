@@ -1,6 +1,12 @@
-# Farmpedia - eCommerce Website
+# Anon - An eCommerce Website
 
-Farmpedia is a fully responsive ecommerce website with maximum compatibility across all mobile devices, built using HTML, CSS, and JavaScript.
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
+
+Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
@@ -13,50 +19,26 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installation
+## Installing Anon
 
-To install **Farmpedia**, follow these steps:
+To install **Anon**, follow these steps:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Hanshanuraazma/go_farmpedia.git
+sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Hanshanuraazma/go_farmpedia.git
+git clone https://github.com/codewithsadee/anon-ecommerce-website.git
 ```
 
-## Deployment on Vercel
+## Contact
 
-This project is configured for easy deployment on Vercel:
-
-1. Push your code to GitHub
-2. Import your repository in Vercel dashboard
-3. Vercel will automatically detect the configuration and deploy
-4. Your site will be live at your Vercel URL
-
-### Deploy Button
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Hanshanuraazma/go_farmpedia)
-
-### Manual Deployment Steps
-
-1. Visit [Vercel](https://vercel.com)
-2. Sign in with your GitHub account
-3. Click "New Project"
-4. Import `go_farmpedia` repository
-5. Click "Deploy"
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- Responsive Design
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ## License
 
-This project is **free to use** and does not contain any license.
+This project is **free to use** and does not contains any license.
